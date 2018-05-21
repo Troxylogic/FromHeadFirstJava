@@ -16,7 +16,7 @@ public class BeerSong {
             }
 
             if (beerCount == 0) {
-                System.out.println("Õlu on otsat :(");
+                System.out.println("Õlu on kahjuks otsaadwadat :(");
             }
 
 
