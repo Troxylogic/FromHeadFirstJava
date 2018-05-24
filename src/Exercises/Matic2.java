@@ -1,8 +1,10 @@
-public class PharseOMatic {
+package Exercises;
+
+public class Matic2 {
     public static void main(String[] args) {
         String[] nimed = {"Mari", "Arnold", "Andrias", "Peeter", "Sandra", "Jaan", "Martin"};
         String[] teguvus = {"Sõidavad", "Ratustab", "Rallib", "Kimab", "Silitab"};
-        String[] mida = {"Hobust", "5", "Motikat", "patareid", "Siili"};
+        String[] mida = {"Hobust", "Ratast", "Motikat", "patareid", "Siili"};
 
         int a = nimed.length;
         int b = teguvus.length;
